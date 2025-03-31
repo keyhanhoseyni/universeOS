@@ -9,4 +9,4 @@ every company can use this API for 	<sub>free	</sub>**.
 # OS store🤯
 you can upload your repository/code file in osstore.universe.com
 # but... but what happen with universe? _befor booting you choose what will boot_
-okay! see you! everything powered by AI!
+okay! see you! everything in universe powered by AI!
