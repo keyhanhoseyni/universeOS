@@ -7,6 +7,6 @@ every company can use this API for 	<sub>free	</sub>**.
 **if universe use an API, why were <ins>not</ins> using the android repository?  _because universe have special features.😎_** 
 
 # OS store🤯
-you can upload your repository/code file in osstore.universe.com
+you can upload your repository link/code file in osstore.universe.com
 # but... but what happen with universe? _befor booting you choose what will boot_
 okay! see you! everything in universe powered by AI!
